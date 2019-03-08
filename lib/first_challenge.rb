@@ -19,8 +19,9 @@ value.delete_if do |flavor|
   flavor == "strawberry"
 end
 end
+end
 
   #remember to return your newly altered contacts hash!
-  contacts
+contacts
 end
 
