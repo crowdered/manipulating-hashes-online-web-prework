@@ -13,7 +13,7 @@ def first_challenge
     }
   }
 
- 
+ contact[:Fre]
 
 
   #remember to return your newly altered contacts hash!
